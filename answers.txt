@@ -1,0 +1,40 @@
+1. Explain what a variabel is:
+A variable is a placeholder of information with an assigned value.
+For example,
+new_list = []
+where new_list is the variable.
+
+2.	Explain what a function is
+A group of related statements that
+performs a specific task when called upon.
+
+3.	Explain what a program is
+A program is a set of detailed instructions that a computer
+executes and uses to perform a specific task.
+
+4.	Explain what makes a program effective
+5.	Explain what effective programming is
+I will answer these two questions together as I feel like they
+tie in to one another.
+A program's effectiveness is obviously very much due to
+how it is structured to try and utilize the least amount of
+memory and processing time. Having that said, making sure the program
+is reader-friendly could (should?) be deemed more important as
+it aids with efficiency when it comes to adjusting/updating/altering
+the program with the times.
+Efficiency could also be down to how flexible a program is,
+if you have to rewrite the entire structure every time changes need
+to be made, that also slows down the effectiveness of the program.
+As far as effective programming goes, I would say that writing
+clear and well-documented code could sometimes be more efficient
+than writing super advanced code that is hard for anyone
+to read but to the writer. If no one understands your code apart
+from yourself it just makes life hard for everyone in a bigger scale
+project.
+Also documenting your code properly so that other people can
+understand (also for one self when returning to a project, perhaps
+years later). This in itself aids to efficiency as you
+might avoid having to spend hours trying to understand
+what it is you have actually written.
+
+
