@@ -7,10 +7,12 @@ where new_list is the variable.
 2.	Explain what a function is
 A group of related statements that
 performs a specific task when called upon.
+Saves having to rewrite the same code over and over.
 
 3.	Explain what a program is
-A program is a set of detailed instructions that a computer
+A program is a set of instructions that a computer
 executes and uses to perform a specific task.
+Can be compared to a recipe. 
 
 4.	Explain what makes a program effective
 5.	Explain what effective programming is
